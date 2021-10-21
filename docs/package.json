@@ -20,7 +20,7 @@
     "crowdin:upload": "npm run write-i18n && crowdin upload"
   },
   "dependencies": {
-    "@crowdin/cli": "^3.6.1",
+    "@crowdin/cli": "^3.7.0",
     "@docusaurus/core": "^2.0.0-beta.0",
     "@docusaurus/preset-classic": "^2.0.0-beta.0",
     "@docusaurus/theme-search-algolia": "^2.0.0-beta.0",
